@@ -1,5 +1,9 @@
 # Data Scientist
 
+#### Technical skills
+##### Programming: Python (Numpy, Scipy, Pandas, Matplotlib, Sklearn, Keras), MATLAB, SQL, Mathematica, STATA
+##### Data Science: Machine Learning, Deep Learning, Data Analysis, A/B Testing, Data Visulization
+
 ### Education
 
 PhD in Physics, Brown University - 2022
@@ -45,3 +49,7 @@ Reinforcement Learning
 - Designed a 2D game with randomly generated maps to train and test our models on procedurally generated levels
 - Implemented Q-Learning and PPO models to compare their effectiveness in finding the optimal way of collecting coins
 while avoiding an enemy
+
+### Publications
+
+Daniya Seitova, Jonathan Pober, The optical depth of foregrounds for the highest redshift 21 cm signals, Monthly Notices of the Royal Astronomical Society, 2022
