@@ -3,6 +3,7 @@
 ### Education
 
 PhD in Physics, Brown University - 2022
+
 BA in Mathematics and Economics, Johns Hopkins University - 2015
 
 ### Work Experience
